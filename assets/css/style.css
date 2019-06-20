@@ -1,0 +1,103 @@
+head{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body{
+    font: "Arial", "Helvetica Neue", "Helvetica", "sans-serif";
+    color: #777777;
+    background: url(../images/papyrus.png) ;
+}
+
+header{
+    width: 100%;
+    background-color: #ffffff;
+    height: 87px;
+    border-bottom: 5px solid #cccccc;
+    
+}
+h1{
+    color: #ffffff;
+    background-color: #4aaaa5;
+    float: left;
+    padding: 25px; 
+    margin: 0%;
+    
+}
+
+h2{
+    color: #4aaaa5;
+    text-align: left;
+    border-bottom: solid 5px #dddddd
+}
+#Pic{
+    float: left;
+    margin: 5%;
+
+}
+
+p{
+    text-align: left;
+    margin: 10%;
+}
+
+#Tool-Bar{
+
+    margin:0%;
+    width: 30%;
+    float:right;
+    color: #777777;
+}
+
+
+#About{
+
+    text-align: left;
+    width: 960px;
+    height: 100%;
+    
+}
+
+#Portfolio{
+    width: 960px;
+    height: 100%;
+}
+
+#Img1{
+    float: left;
+    width: 30%;
+    height: 30%
+}
+
+#Img2{
+    float: right;
+    width: 30%;
+    height: 30%
+}
+ #Img3{
+    float: left;
+    width: 30%;
+    height: 30%
+ }
+
+ #Img4{
+    float: right;
+    width: 30%;
+    height: 30%
+ }
+
+ #Img5{
+    float:left;
+    width: 30%;
+    height: 30%
+ }
+
+footer{ 
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    color: #ffffff;
+    font-size: 10px;
+    background-color: #777777;
+    height: 60px;
+}
